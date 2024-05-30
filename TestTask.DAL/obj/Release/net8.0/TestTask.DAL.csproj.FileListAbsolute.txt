@@ -1,0 +1,17 @@
+C:\Users\yyarm\source\repos\TestTask\TestTask.DAL\bin\Release\net8.0\TestTask.DAL.deps.json
+C:\Users\yyarm\source\repos\TestTask\TestTask.DAL\bin\Release\net8.0\TestTask.DAL.runtimeconfig.json
+C:\Users\yyarm\source\repos\TestTask\TestTask.DAL\bin\Release\net8.0\TestTask.DAL.dll
+C:\Users\yyarm\source\repos\TestTask\TestTask.DAL\bin\Release\net8.0\TestTask.DAL.pdb
+C:\Users\yyarm\source\repos\TestTask\TestTask.DAL\bin\Release\net8.0\TestTask.Domain.dll
+C:\Users\yyarm\source\repos\TestTask\TestTask.DAL\bin\Release\net8.0\TestTask.Domain.pdb
+C:\Users\yyarm\source\repos\TestTask\TestTask.DAL\obj\Release\net8.0\TestTask.DAL.csproj.AssemblyReference.cache
+C:\Users\yyarm\source\repos\TestTask\TestTask.DAL\obj\Release\net8.0\TestTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyarm\source\repos\TestTask\TestTask.DAL\obj\Release\net8.0\TestTask.DAL.AssemblyInfoInputs.cache
+C:\Users\yyarm\source\repos\TestTask\TestTask.DAL\obj\Release\net8.0\TestTask.DAL.AssemblyInfo.cs
+C:\Users\yyarm\source\repos\TestTask\TestTask.DAL\obj\Release\net8.0\TestTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\yyarm\source\repos\TestTask\TestTask.DAL\obj\Release\net8.0\TestTask.7774237C.Up2Date
+C:\Users\yyarm\source\repos\TestTask\TestTask.DAL\obj\Release\net8.0\TestTask.DAL.dll
+C:\Users\yyarm\source\repos\TestTask\TestTask.DAL\obj\Release\net8.0\refint\TestTask.DAL.dll
+C:\Users\yyarm\source\repos\TestTask\TestTask.DAL\obj\Release\net8.0\TestTask.DAL.pdb
+C:\Users\yyarm\source\repos\TestTask\TestTask.DAL\obj\Release\net8.0\TestTask.DAL.genruntimeconfig.cache
+C:\Users\yyarm\source\repos\TestTask\TestTask.DAL\obj\Release\net8.0\ref\TestTask.DAL.dll

@@ -1,0 +1,3 @@
+C:\Users\yyarm\source\repos\TestTask\TestTask.Domain\bin\Release\net8.0\publish\TestTask.Domain.dll
+C:\Users\yyarm\source\repos\TestTask\TestTask.Domain\bin\Release\net8.0\publish\TestTask.Domain.deps.json
+C:\Users\yyarm\source\repos\TestTask\TestTask.Domain\bin\Release\net8.0\publish\TestTask.Domain.pdb

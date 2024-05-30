@@ -1,0 +1,4 @@
+C:\Users\yyarm\source\repos\TestTask\obj\Debug\net8.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyarm\source\repos\TestTask\obj\Debug\net8.0\TestTask.AssemblyInfoInputs.cache
+C:\Users\yyarm\source\repos\TestTask\obj\Debug\net8.0\TestTask.AssemblyInfo.cs
+C:\Users\yyarm\source\repos\TestTask\obj\Debug\net8.0\TestTask.csproj.CoreCompileInputs.cache

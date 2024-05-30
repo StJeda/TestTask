@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "esgTCNk5mN75Y0k9zXCw6Qijrpner7ejEAdoKngt1bY=",
+  "Source": "TestTask.API",
+  "BasePath": "_content/TestTask.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
