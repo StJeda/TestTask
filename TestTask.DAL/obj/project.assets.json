@@ -4128,11 +4128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yyarm\\source\\repos\\TestTask\\TestTask.DAL\\TestTask.DAL.csproj",
+      "projectUniqueName": "D:\\VMs\\TestTasm\\TestTask\\TestTask.DAL\\TestTask.DAL.csproj",
       "projectName": "TestTask.DAL",
-      "projectPath": "C:\\Users\\yyarm\\source\\repos\\TestTask\\TestTask.DAL\\TestTask.DAL.csproj",
+      "projectPath": "D:\\VMs\\TestTasm\\TestTask\\TestTask.DAL\\TestTask.DAL.csproj",
       "packagesPath": "C:\\Users\\yyarm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yyarm\\source\\repos\\TestTask\\TestTask.DAL\\obj\\",
+      "outputPath": "D:\\VMs\\TestTasm\\TestTask\\TestTask.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yyarm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4150,8 +4150,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\yyarm\\source\\repos\\TestTask\\TestTask.Domain\\TestTask.Domain.csproj": {
-              "projectPath": "C:\\Users\\yyarm\\source\\repos\\TestTask\\TestTask.Domain\\TestTask.Domain.csproj"
+            "D:\\VMs\\TestTasm\\TestTask\\TestTask.Domain\\TestTask.Domain.csproj": {
+              "projectPath": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Domain\\TestTask.Domain.csproj"
             }
           }
         }

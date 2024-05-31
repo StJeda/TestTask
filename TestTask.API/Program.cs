@@ -25,8 +25,6 @@ namespace TestTask.API
             builder.Services.AddScoped<IEFDocumentRepository, EFDocumentRepository>();
             builder.Services.AddScoped<IEFDocumentService, EFDocumentService>();
 
-
-            // –егистраци€ ADO репозитори€ и сервиса дл€ ADO контроллера
             builder.Services.AddScoped<IADODocumentRepository, ADODocumentRepository>(provider =>
             {
                 var connectionString = configuration.GetConnectionString("DefaultConnection");

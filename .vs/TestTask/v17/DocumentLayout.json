@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VMs\\TestTasm\\TestTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA08B20-684D-4BEB-8C8C-747A2F3E6D54}|TestTask.API\\TestTask.API.csproj|d:\\vms\\testtasm\\testtask\\testtask.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA08B20-684D-4BEB-8C8C-747A2F3E6D54}|TestTask.API\\TestTask.API.csproj|solutionrelative:testtask.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA08B20-684D-4BEB-8C8C-747A2F3E6D54}|TestTask.API\\TestTask.API.csproj|d:\\vms\\testtasm\\testtask\\testtask.api\\controllers\\adocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA08B20-684D-4BEB-8C8C-747A2F3E6D54}|TestTask.API\\TestTask.API.csproj|solutionrelative:testtask.api\\controllers\\adocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA08B20-684D-4BEB-8C8C-747A2F3E6D54}|TestTask.API\\TestTask.API.csproj|d:\\vms\\testtasm\\testtask\\testtask.api\\controllers\\efcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA08B20-684D-4BEB-8C8C-747A2F3E6D54}|TestTask.API\\TestTask.API.csproj|solutionrelative:testtask.api\\controllers\\efcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC4D167-E687-4B5D-9203-ADE9B752A9EC}|TestTask.DAL\\TestTask.DAL.csproj|d:\\vms\\testtasm\\testtask\\testtask.dal\\repository\\efdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC4D167-E687-4B5D-9203-ADE9B752A9EC}|TestTask.DAL\\TestTask.DAL.csproj|solutionrelative:testtask.dal\\repository\\efdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D011F602-C935-4193-B547-ED825496D916}|TestTask.Core\\TestTask.Core.csproj|d:\\vms\\testtasm\\testtask\\testtask.core\\services\\interfaces\\iadodocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D011F602-C935-4193-B547-ED825496D916}|TestTask.Core\\TestTask.Core.csproj|solutionrelative:testtask.core\\services\\interfaces\\iadodocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D011F602-C935-4193-B547-ED825496D916}|TestTask.Core\\TestTask.Core.csproj|d:\\vms\\testtasm\\testtask\\testtask.core\\services\\interfaces\\iefdocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D011F602-C935-4193-B547-ED825496D916}|TestTask.Core\\TestTask.Core.csproj|solutionrelative:testtask.core\\services\\interfaces\\iefdocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA08B20-684D-4BEB-8C8C-747A2F3E6D54}|TestTask.API\\TestTask.API.csproj|d:\\vms\\testtasm\\testtask\\testtask.api\\migrations\\20240530205637_initialcreate4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA08B20-684D-4BEB-8C8C-747A2F3E6D54}|TestTask.API\\TestTask.API.csproj|solutionrelative:testtask.api\\migrations\\20240530205637_initialcreate4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA08B20-684D-4BEB-8C8C-747A2F3E6D54}|TestTask.API\\TestTask.API.csproj|d:\\vms\\testtasm\\testtask\\testtask.api\\migrations\\documentcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA08B20-684D-4BEB-8C8C-747A2F3E6D54}|TestTask.API\\TestTask.API.csproj|solutionrelative:testtask.api\\migrations\\documentcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA08B20-684D-4BEB-8C8C-747A2F3E6D54}|TestTask.API\\TestTask.API.csproj|d:\\vms\\testtasm\\testtask\\testtask.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AA08B20-684D-4BEB-8C8C-747A2F3E6D54}|TestTask.API\\TestTask.API.csproj|solutionrelative:testtask.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA5DB5E-7FAC-463C-A459-89DE5FABACBE}|TestTask.Domain\\TestTask.Domain.csproj|d:\\vms\\testtasm\\testtask\\testtask.domain\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA5DB5E-7FAC-463C-A459-89DE5FABACBE}|TestTask.Domain\\TestTask.Domain.csproj|solutionrelative:testtask.domain\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA5DB5E-7FAC-463C-A459-89DE5FABACBE}|TestTask.Domain\\TestTask.Domain.csproj|d:\\vms\\testtasm\\testtask\\testtask.domain\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA5DB5E-7FAC-463C-A459-89DE5FABACBE}|TestTask.Domain\\TestTask.Domain.csproj|solutionrelative:testtask.domain\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA5DB5E-7FAC-463C-A459-89DE5FABACBE}|TestTask.Domain\\TestTask.Domain.csproj|d:\\vms\\testtasm\\testtask\\testtask.domain\\models\\documentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA5DB5E-7FAC-463C-A459-89DE5FABACBE}|TestTask.Domain\\TestTask.Domain.csproj|solutionrelative:testtask.domain\\models\\documentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA5DB5E-7FAC-463C-A459-89DE5FABACBE}|TestTask.Domain\\TestTask.Domain.csproj|d:\\vms\\testtasm\\testtask\\testtask.domain\\testtask.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAA5DB5E-7FAC-463C-A459-89DE5FABACBE}|TestTask.Domain\\TestTask.Domain.csproj|solutionrelative:testtask.domain\\testtask.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5646A284-E3F6-442A-B50F-514E09124373}|TestTask.Test\\TestTask.Test.csproj|d:\\vms\\testtasm\\testtask\\testtask.test\\adocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5646A284-E3F6-442A-B50F-514E09124373}|TestTask.Test\\TestTask.Test.csproj|solutionrelative:testtask.test\\adocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5646A284-E3F6-442A-B50F-514E09124373}|TestTask.Test\\TestTask.Test.csproj|d:\\vms\\testtasm\\testtask\\testtask.test\\efcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5646A284-E3F6-442A-B50F-514E09124373}|TestTask.Test\\TestTask.Test.csproj|solutionrelative:testtask.test\\efcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC4D167-E687-4B5D-9203-ADE9B752A9EC}|TestTask.DAL\\TestTask.DAL.csproj|d:\\vms\\testtasm\\testtask\\testtask.dal\\repository\\adodocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC4D167-E687-4B5D-9203-ADE9B752A9EC}|TestTask.DAL\\TestTask.DAL.csproj|solutionrelative:testtask.dal\\repository\\adodocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC4D167-E687-4B5D-9203-ADE9B752A9EC}|TestTask.DAL\\TestTask.DAL.csproj|d:\\vms\\testtasm\\testtask\\testtask.dal\\interfaces\\iadodocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC4D167-E687-4B5D-9203-ADE9B752A9EC}|TestTask.DAL\\TestTask.DAL.csproj|solutionrelative:testtask.dal\\interfaces\\iadodocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC4D167-E687-4B5D-9203-ADE9B752A9EC}|TestTask.DAL\\TestTask.DAL.csproj|d:\\vms\\testtasm\\testtask\\testtask.dal\\context\\documentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC4D167-E687-4B5D-9203-ADE9B752A9EC}|TestTask.DAL\\TestTask.DAL.csproj|solutionrelative:testtask.dal\\context\\documentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC4D167-E687-4B5D-9203-ADE9B752A9EC}|TestTask.DAL\\TestTask.DAL.csproj|d:\\vms\\testtasm\\testtask\\testtask.dal\\testtask.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAC4D167-E687-4B5D-9203-ADE9B752A9EC}|TestTask.DAL\\TestTask.DAL.csproj|solutionrelative:testtask.dal\\testtask.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D011F602-C935-4193-B547-ED825496D916}|TestTask.Core\\TestTask.Core.csproj|d:\\vms\\testtasm\\testtask\\testtask.core\\services\\adodocumentservice\\adodocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D011F602-C935-4193-B547-ED825496D916}|TestTask.Core\\TestTask.Core.csproj|solutionrelative:testtask.core\\services\\adodocumentservice\\adodocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IADODocumentService.cs",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Core\\Services\\Interfaces\\IADODocumentService.cs",
+              "RelativeDocumentMoniker": "TestTask.Core\\Services\\Interfaces\\IADODocumentService.cs",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Core\\Services\\Interfaces\\IADODocumentService.cs",
+              "RelativeToolTip": "TestTask.Core\\Services\\Interfaces\\IADODocumentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:41:16.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFDocumentRepository.cs",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.DAL\\Repository\\EFDocumentRepository.cs",
+              "RelativeDocumentMoniker": "TestTask.DAL\\Repository\\EFDocumentRepository.cs",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.DAL\\Repository\\EFDocumentRepository.cs",
+              "RelativeToolTip": "TestTask.DAL\\Repository\\EFDocumentRepository.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAkwFYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:38:05.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFController.cs",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.API\\Controllers\\EFController.cs",
+              "RelativeDocumentMoniker": "TestTask.API\\Controllers\\EFController.cs",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.API\\Controllers\\EFController.cs",
+              "RelativeToolTip": "TestTask.API\\Controllers\\EFController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:40:17.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ADOController.cs",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.API\\Controllers\\ADOController.cs",
+              "RelativeDocumentMoniker": "TestTask.API\\Controllers\\ADOController.cs",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.API\\Controllers\\ADOController.cs",
+              "RelativeToolTip": "TestTask.API\\Controllers\\ADOController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:40:13.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.API\\Program.cs",
+              "RelativeDocumentMoniker": "TestTask.API\\Program.cs",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.API\\Program.cs",
+              "RelativeToolTip": "TestTask.API\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:36:53.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEFDocumentService.cs",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Core\\Services\\Interfaces\\IEFDocumentService.cs",
+              "RelativeDocumentMoniker": "TestTask.Core\\Services\\Interfaces\\IEFDocumentService.cs",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Core\\Services\\Interfaces\\IEFDocumentService.cs",
+              "RelativeToolTip": "TestTask.Core\\Services\\Interfaces\\IEFDocumentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:41:18.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240530205637_InitialCreate4.cs",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.API\\Migrations\\20240530205637_InitialCreate4.cs",
+              "RelativeDocumentMoniker": "TestTask.API\\Migrations\\20240530205637_InitialCreate4.cs",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.API\\Migrations\\20240530205637_InitialCreate4.cs",
+              "RelativeToolTip": "TestTask.API\\Migrations\\20240530205637_InitialCreate4.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:40:56.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DocumentContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.API\\Migrations\\DocumentContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TestTask.API\\Migrations\\DocumentContextModelSnapshot.cs",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.API\\Migrations\\DocumentContextModelSnapshot.cs",
+              "RelativeToolTip": "TestTask.API\\Migrations\\DocumentContextModelSnapshot.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:40:57.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TestTask.API\\appsettings.json",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.API\\appsettings.json",
+              "RelativeToolTip": "TestTask.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T02:40:23.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Domain\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "TestTask.Domain\\Models\\Document.cs",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Domain\\Models\\Document.cs",
+              "RelativeToolTip": "TestTask.Domain\\Models\\Document.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:39:53.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Domain\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "TestTask.Domain\\Models\\Status.cs",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Domain\\Models\\Status.cs",
+              "RelativeToolTip": "TestTask.Domain\\Models\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:39:51.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DocumentStatus.cs",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Domain\\Models\\DocumentStatus.cs",
+              "RelativeDocumentMoniker": "TestTask.Domain\\Models\\DocumentStatus.cs",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Domain\\Models\\DocumentStatus.cs",
+              "RelativeToolTip": "TestTask.Domain\\Models\\DocumentStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:39:48.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ADOControllerTest.cs",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Test\\ADOControllerTest.cs",
+              "RelativeDocumentMoniker": "TestTask.Test\\ADOControllerTest.cs",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Test\\ADOControllerTest.cs",
+              "RelativeToolTip": "TestTask.Test\\ADOControllerTest.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:39:34.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EFControllerTest.cs",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Test\\EFControllerTest.cs",
+              "RelativeDocumentMoniker": "TestTask.Test\\EFControllerTest.cs",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Test\\EFControllerTest.cs",
+              "RelativeToolTip": "TestTask.Test\\EFControllerTest.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:39:29.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestTask.Domain",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Domain\\TestTask.Domain.csproj",
+              "RelativeDocumentMoniker": "TestTask.Domain\\TestTask.Domain.csproj",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Domain\\TestTask.Domain.csproj",
+              "RelativeToolTip": "TestTask.Domain\\TestTask.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T02:39:26.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ADODocumentRepository.cs",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.DAL\\Repository\\ADODocumentRepository.cs",
+              "RelativeDocumentMoniker": "TestTask.DAL\\Repository\\ADODocumentRepository.cs",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.DAL\\Repository\\ADODocumentRepository.cs",
+              "RelativeToolTip": "TestTask.DAL\\Repository\\ADODocumentRepository.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:37:51.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IADODocumentRepository.cs",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.DAL\\Interfaces\\IADODocumentRepository.cs",
+              "RelativeDocumentMoniker": "TestTask.DAL\\Interfaces\\IADODocumentRepository.cs",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.DAL\\Interfaces\\IADODocumentRepository.cs",
+              "RelativeToolTip": "TestTask.DAL\\Interfaces\\IADODocumentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:37:45.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DocumentContext.cs",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.DAL\\Context\\DocumentContext.cs",
+              "RelativeDocumentMoniker": "TestTask.DAL\\Context\\DocumentContext.cs",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.DAL\\Context\\DocumentContext.cs",
+              "RelativeToolTip": "TestTask.DAL\\Context\\DocumentContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:37:40.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TestTask.DAL",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.DAL\\TestTask.DAL.csproj",
+              "RelativeDocumentMoniker": "TestTask.DAL\\TestTask.DAL.csproj",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.DAL\\TestTask.DAL.csproj",
+              "RelativeToolTip": "TestTask.DAL\\TestTask.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T02:37:35.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ADODocumentService.cs",
+              "DocumentMoniker": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Core\\Services\\ADODocumentService\\ADODocumentService.cs",
+              "RelativeDocumentMoniker": "TestTask.Core\\Services\\ADODocumentService\\ADODocumentService.cs",
+              "ToolTip": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Core\\Services\\ADODocumentService\\ADODocumentService.cs",
+              "RelativeToolTip": "TestTask.Core\\Services\\ADODocumentService\\ADODocumentService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:37:26.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

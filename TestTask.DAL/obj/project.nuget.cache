@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zVeX+9uaza0=",
+  "dgSpecHash": "1ze+rCF4HDs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\yyarm\\source\\repos\\TestTask\\TestTask.DAL\\TestTask.DAL.csproj",
+  "projectFilePath": "D:\\VMs\\TestTasm\\TestTask\\TestTask.DAL\\TestTask.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yyarm\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\yyarm\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

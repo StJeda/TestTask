@@ -28,6 +28,7 @@ namespace TestTask.DAL.Repository
                     .Query()
                     .OrderByDescending(s => s.DateTime)
                     .Take(1)
+                    .AsQueryable()
                     .LoadAsync();
 
                 var latestStatus = document.Statuses.FirstOrDefault();
@@ -65,6 +66,7 @@ namespace TestTask.DAL.Repository
                     .Query()
                     .OrderByDescending(s => s.DateTime)
                     .Take(1)
+                    .AsQueryable()
                     .LoadAsync();
 
             return document is not null && document.Statuses.LastOrDefault()?.StatusId != (int)DocumentStatusEnum.DELETED ? document : null;
@@ -82,6 +84,7 @@ namespace TestTask.DAL.Repository
                     .Query()
                     .OrderByDescending(s => s.DateTime)
                     .Take(1)
+                    .AsQueryable()
                     .LoadAsync();
             }
 

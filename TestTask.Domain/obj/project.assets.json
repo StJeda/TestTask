@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yyarm\\source\\repos\\TestTask\\TestTask.Domain\\TestTask.Domain.csproj",
+      "projectUniqueName": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Domain\\TestTask.Domain.csproj",
       "projectName": "TestTask.Domain",
-      "projectPath": "C:\\Users\\yyarm\\source\\repos\\TestTask\\TestTask.Domain\\TestTask.Domain.csproj",
+      "projectPath": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Domain\\TestTask.Domain.csproj",
       "packagesPath": "C:\\Users\\yyarm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yyarm\\source\\repos\\TestTask\\TestTask.Domain\\obj\\",
+      "outputPath": "D:\\VMs\\TestTasm\\TestTask\\TestTask.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yyarm\\AppData\\Roaming\\NuGet\\NuGet.Config",
